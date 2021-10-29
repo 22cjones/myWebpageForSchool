@@ -1,0 +1,21 @@
+body {
+	background-image: url("homeBackground.gif"); background-size: cover;
+}
+
+
+#introduction {
+	color: rgb(95, 227, 114);
+	margin-right: auto;
+	margin-left: auto;
+	padding: 10px; background-repeat: no-repeat;
+	background-image: url("lineBackground.jpg");
+	width: 30%;
+}
+
+#pages {
+	font-size: 40px;
+}
+
+footer {
+	font-size: 20px
+}
